@@ -1,1 +1,2 @@
 ServicesDependacy.png
+InfrastructureFPAdministrationDiagram.png
