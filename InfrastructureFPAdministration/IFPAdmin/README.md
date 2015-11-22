@@ -1,3 +1,3 @@
 # IFPAdmin
-One copy of "IFPAdmin" service a part of "InfrastructureFPAdministration" subsystem should exist in the whole "InfrastructureFP" environment
+The basic user desktop GUI client console application "IFPAdCon" for "IFPAdmin" service
 
