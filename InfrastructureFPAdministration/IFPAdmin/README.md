@@ -1,3 +1,3 @@
 # IFPAdmin
-The basic user desktop GUI client console application "IFPAdCon" for "IFPAdmin" service
+One copy of "IFPAdmin" service a part of "InfrastructureFPAdministration" subsystem should exist in the whole "InfrastructureFP" environment, which can be installed on single physical server (OS) in single execution mode or on physical high available server (OS) cluster in cluster execution mode. The goal of "IFPAdmin" service is to provide administration and management application interface for whole "InfrastructureFP" environment (services, agents, users, access control lists, flows, so on). The "IFPAdmin" service is a central and responsible (critical) service in whole "InfrastructureFP" environment.
 
